@@ -8,11 +8,11 @@
 @import url(../bloks/header/__subtitle/header__subtitle.css);
 @import url(../bloks/header/__title/header__title.css);
 @import url(../bloks/description/description.css);
-@import url(../bloks/description/two-columns/two-columns.css);
-@import url(../bloks/description/two-columns/__brief/two-columns__brief.css);
-@import url(../bloks/description/two-columns/__main-text/two-columns__main-text.css);
-@import url(../bloks/description/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../bloks/description/two-columns/__span-accent/two-columns__span-accent.css);
+@import url(../bloks/two-columns/two-columns.css);
+@import url(../bloks/two-columns/__brief/two-columns__brief.css);
+@import url(../bloks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../bloks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../bloks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../bloks/section/__section-title/section-title.css);
 @import url(../bloks/section/__section-subtitle/section-subtitle.css);
 @import url(../bloks/section/__section-title/_theme/section-title_theme_dark.css);
@@ -25,7 +25,7 @@
 @import url(../bloks/techniques/cards/__title/cards__title.css);
 @import url(../video/video.css);
 @import url(../video/__iframes/video__iframes.css);
-@import url(../video/__iframes/_iframes/video__iframe.css);
+@import url(../video/__iframes/__iframe/video__iframe.css);
 @import url(../bloks/digits/digits.css);
 @import url(../bloks/feynman/feynman.css);
 @import url(../bloks/feynman/__image/feynman__image.css);
