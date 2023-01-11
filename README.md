@@ -1,0 +1,3 @@
+# First project on Yandex Practikum "How-to-learn"
+## In this project, the basic principles of writing modern code in HTML and CSS were used.
+## Such things as: flexbox layout; positioning elements on the page; organizing the file system by BEM; integrating files: video, iframe, embed, API into HTML; creating animations on the page and transformations; working with Git/GitHub were studied and applied in practice. 
